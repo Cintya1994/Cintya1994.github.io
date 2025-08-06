@@ -1,0 +1,45 @@
+h1{
+    inline-size: 70%;
+    background-color: antiquewhite;
+    color: rgb(90, 64, 114);
+    text-align: center;
+    font-style: oblique;
+}
+
+body{
+    background-color: rgb(90, 64, 114);
+    
+}
+    
+img{
+   float: right;
+   width: 300px;
+   border-radius: 45%;
+}
+
+.presentación h3{
+    color:white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.presentación p{
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.experiencia p{
+    color:white;
+    text-decoration: underline;
+}
+
+em{
+    color: rgb(30, 12, 46);
+    font-weight: bold;
+}
+#experienciapersonal{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#experienciapersonal h3{
+    text-decoration: underline}
